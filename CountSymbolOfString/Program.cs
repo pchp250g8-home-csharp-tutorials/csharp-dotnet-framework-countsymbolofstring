@@ -30,6 +30,7 @@ namespace CountSymbolOfString
                 "The symbol \"{0}\" occupies {1}% of the string \"{2}\"",
                 chSym, fltPart, strLine
             );
+            Console.Read();
         }
     }
 }
